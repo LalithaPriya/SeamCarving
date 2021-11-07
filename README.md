@@ -14,4 +14,4 @@ SeamCarving> python.exe .\main.py .\broadway-tower.jpg
 The above invocation opens an interactive window where #seams to be removed can be controlled with a slider  
 
 A demo on how the seams are removed:
-![](results/seamcarving.gifd)
+![](results/seamcarving.gif)
